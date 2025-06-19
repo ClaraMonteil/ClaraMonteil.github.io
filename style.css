@@ -40,7 +40,7 @@ footer {
   margin: auto;
 }
 .hero {
-  background: linear-gradient(to right, #005f73, #0a9396);
+  background: linear-gradient(to right, #3e9fde, #0a9396);
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -55,7 +55,7 @@ footer {
   padding: 15px 30px;
   margin: 10px;
   background-color: #94d2bd;
-  color: #005f73;
+  color: #3e9fde;
   font-weight: bold;
   text-decoration: none;
   border-radius: 5px;
