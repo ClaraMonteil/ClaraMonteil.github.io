@@ -6,7 +6,7 @@ body {
   color: #333;
 }
 header {
-  background-color: #3e9fde;
+  background-color: #005f73;
   color: white;
   padding: 20px;
   text-align: center;
@@ -27,7 +27,7 @@ main {
   padding: 20px;
 }
 footer {
-  background-color: #94d2bd;
+  background-color: #005f73;
   color: white;
   text-align: center;
   padding: 10px;
@@ -40,7 +40,7 @@ footer {
   margin: auto;
 }
 .hero {
-  background: linear-gradient(to right, #3e9fde, #0a9396);
+  background: linear-gradient(to right, #005f73, #0a9396);
   color: white;
   text-align: center;
   padding: 60px 20px;
