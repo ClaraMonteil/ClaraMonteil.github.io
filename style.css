@@ -6,9 +6,9 @@ body {
   color: #333;
 }
 
-/* Bandeau principal */
+/* Bandeau principal avec dégradé */
 .hero {
-  background-color: #0077b6;  /* bleu océan */
+  background: linear-gradient(to right, #005f73, #0a9396);
   color: white;
   text-align: center;
   padding: 60px 20px;
@@ -23,8 +23,8 @@ body {
   display: inline-block;
   padding: 15px 30px;
   margin: 10px;
-  background-color: #90e0ef;  /* turquoise clair */
-  color: #03045e;             /* bleu foncé pour le texte */
+  background-color: #94d2bd;
+  color: #005f73;
   font-weight: bold;
   text-decoration: none;
   border-radius: 8px;
@@ -32,13 +32,13 @@ body {
 }
 
 .button:hover {
-  background-color: #0077b6;
+  background-color: #ee9b00;
   color: white;
 }
 
 /* Barre de navigation */
 nav {
-  background-color: #0096c7;  /* bleu intermédiaire */
+  background-color: #0a9396;
   display: flex;
   justify-content: center;
   gap: 20px;
@@ -63,7 +63,7 @@ main {
 
 /* Pied de page */
 footer {
-  background-color: #0077b6;
+  background-color: #005f73;
   color: white;
   text-align: center;
   padding: 10px;
